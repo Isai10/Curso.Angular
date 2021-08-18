@@ -1,0 +1,18 @@
+
+.fondoAzul{
+    background:  lightblue !important;
+}
+
+
+.fondoVerde{
+    background:  green !important;
+}
+
+.letraGrande{
+    font-size: 1 !important;
+}
+
+.activado{
+    font-weight: bold;
+    background: yellow;
+}
